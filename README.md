@@ -8,6 +8,9 @@ Concrete cracking is a major issue in Bridge Engineering. Detection of cracks fa
 
  https://cutt.ly/PS_1_dataset
  
+## Deep Learning framework:
+Tensorflow has been used to build the model in this project. We have used the transfer learning technique with MobileNet being the backbone model. The last two layers of the pretrained model has been removed and a softmax layer has been added for classification in between two classes, Crack Detected and Crack Not Detected.
+ 
 ## Evaluation Matrics
 
 * Precision : 0.9999573826789856
