@@ -10,9 +10,9 @@ Concrete cracking is a major issue in Bridge Engineering. Detection of cracks fa
  
 ## Evaluation Matrics
 
-Precision : 0.9999573826789856
-Recall : 0.9999574422836304
-F1 Score : 0.9999573826789856
+* Precision : 0.9999573826789856
+* Recall : 0.9999574422836304
+* F1 Score : 0.9999573826789856
 
 ## Plots
 
