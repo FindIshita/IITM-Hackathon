@@ -13,6 +13,17 @@ Tensorflow has been used to build the model in this project. We have used the tr
  
 ## Evaluation Matrics
 
+1 TRAINING SET
+* Precision : 1.00
+* Recall : 1.00
+* F1 Score : 1.00
+
+2 VALIDATION SET
+* Precision : 0.9998
+* Recall : 0.9998
+* F1 Score : 0.9998
+
+3 TESTING SET
 * Precision : 0.9999573826789856
 * Recall : 0.9999574422836304
 * F1 Score : 0.9999573826789856
